@@ -3,5 +3,7 @@
 Welcome To our Project 
 
 1.Frontend development
-2.Middleware
+2.Middleware(python)
 3.Backend development
+
+REST API
